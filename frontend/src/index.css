@@ -1,5 +1,5 @@
-@import "tailwindcss/preflight";
-@import "tailwindcss/utilities";
+@import "tailwindcss";
+/*@import "tailwindcss/utilities";*/
 
 body {
     background: #0f0f10;
