@@ -53,7 +53,7 @@ return (
             height: '100vh',
         }}
     >
-            <div className="mr-[50rem] mt-[5rem]  bg-gray-950 backdrop-blur-md opacity-67 p-10 rounded-lg">
+            <div className="mr-[48rem] mt-[2rem]  bg-gray-950 backdrop-blur-md opacity-67 p-10 rounded-lg">
                 <h1 className="text-2xl font-semibold mb-4">Sign In</h1>
                 <form onSubmit={submitHandler} className="container w-[40rem]">
                     <div className='my-[2rem]'>
