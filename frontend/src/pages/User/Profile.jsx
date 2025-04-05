@@ -85,7 +85,7 @@ return (<div className='flex justify-center items-center min-h-screen bg-gray-90
 
         </div>
 
-  </div>)
+</div>)
 }
 
 export default Profile
